@@ -1,4 +1,3 @@
-```markdown
 # Retro Moon-Graph Watch (Project ChronoLuna)
 
 An ultra-low-power, wrist-wearable modern tribute to the legendary 1980s **Casio Moon Graph (GMW-15)**. This repository houses the entire open-source journey of designing, simulating, coding, and building a physical digital watch from scratch—featuring high-accuracy astronomical calculations, a modern Memory-in-Pixel (MiP) display, custom multi-layer PCB layout, and micro-amp power optimization.
